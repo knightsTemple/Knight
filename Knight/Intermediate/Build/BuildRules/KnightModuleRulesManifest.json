@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\Knight\\Knight\\Source\\Knight\\Knight.Build.cs",
+		"F:\\Knight\\Knight\\Source\\Knight.Target.cs",
+		"F:\\Knight\\Knight\\Source\\KnightEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

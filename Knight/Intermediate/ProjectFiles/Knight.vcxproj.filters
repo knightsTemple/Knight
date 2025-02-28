@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Knight.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Knight.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\KnightEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Knight">
+      <UniqueIdentifier>{D09EBE8B-7C0B-3A31-86C5-18994240E017}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Knight\Knight.Build.cs">
+      <Filter>Source\Knight</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Knight\Knight.cpp">
+      <Filter>Source\Knight</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Knight\Knight.h">
+      <Filter>Source\Knight</Filter>
+    </ClInclude>
+    <Filter Include="Source\Knight\Private">
+      <UniqueIdentifier>{AB5CE0C4-150C-3A2C-970D-08ECC21A44A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Knight\Private\Character">
+      <UniqueIdentifier>{6A1C04F1-1F38-3640-92A5-306B72C7E7BF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Knight\Private\Character\MyCharacter.cpp">
+      <Filter>Source\Knight\Private\Character</Filter>
+    </ClCompile>
+    <Filter Include="Source\Knight\Public">
+      <UniqueIdentifier>{E10DEEEB-3A1D-3541-B02C-D1B0ED976B13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Knight\Public\Character">
+      <UniqueIdentifier>{6594B7BE-1F49-3919-95CB-3BDBAF051592}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Knight\Public\Character\MyCharacter.h">
+      <Filter>Source\Knight\Public\Character</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
