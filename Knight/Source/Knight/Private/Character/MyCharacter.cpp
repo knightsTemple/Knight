@@ -35,7 +35,7 @@ AMyCharacter::AMyCharacter()
 void AMyCharacter::Jump()
 {
 	Super::Jump();
-	Jump();
+	Jump(); 
 	
 }
 

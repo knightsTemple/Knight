@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Knight.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Knight\Knight\Intermediate\Build\Win64\x64\KnightEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"F:\Knight\Knight\Intermediate\Build\Win64\x64\UnrealEditor\Development\Knight\Knight.init.gen.cpp.obj"
+"F:\Knight\Knight\Intermediate\Build\Win64\x64\UnrealEditor\Development\Knight\KnightPlayerState.gen.cpp.obj"
+"F:\Knight\Knight\Intermediate\Build\Win64\x64\UnrealEditor\Development\Knight\MyCharacter.gen.cpp.obj"
+"F:\Knight\Knight\Intermediate\Build\Win64\x64\UnrealEditor\Development\Knight\Knight.cpp.obj"
+"F:\Knight\Knight\Intermediate\Build\Win64\x64\UnrealEditor\Development\Knight\MyCharacter.cpp.obj"
+"F:\Knight\Knight\Intermediate\Build\Win64\x64\UnrealEditor\Development\Knight\KnightPlayerState.cpp.obj"
+"F:\Knight\Knight\Intermediate\Build\Win64\x64\UnrealEditor\Development\Knight\Default.rc2.res"
+/OUT:"F:\Knight\Knight\Intermediate\Build\Win64\x64\UnrealEditor\Development\Knight\UnrealEditor-Knight.lib"

@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\knight\\knight\\source\\knight\\private\\character\\knightplayerstate.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\knight\\knight\\intermediate\\build\\win64\\x64\\knighteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "f:\\knight\\knight\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\knight\\definitions.knight.h",
+            "f:\\knight\\knight\\source\\knight\\public\\character\\knightplayerstate.h",
+            "e:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstate.h",
+            "e:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerstate.generated.h",
+            "f:\\knight\\knight\\intermediate\\build\\win64\\unrealeditor\\inc\\knight\\uht\\knightplayerstate.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

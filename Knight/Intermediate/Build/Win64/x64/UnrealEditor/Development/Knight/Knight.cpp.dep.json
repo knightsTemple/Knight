@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\knight\\knight\\source\\knight\\knight.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\knight\\knight\\intermediate\\build\\win64\\x64\\knighteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "f:\\knight\\knight\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\knight\\definitions.knight.h",
+            "f:\\knight\\knight\\source\\knight\\knight.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
